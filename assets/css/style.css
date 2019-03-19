@@ -1,0 +1,38 @@
+body {
+    background-image: url("../images/emoji-bg_w.jpg");
+    /* background-repeat: no-repeat; */
+    /* height: 800px;
+    width: 1280px; */
+    font-family: 'Architects Daughter', cursive;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Architects Daughter', cursive;
+    font-size: 45px;
+}
+
+.button{
+    font-family: 'Architects Daughter', cursive;
+    border: solid orange 3px;
+    margin: 1%;
+    font-size: 20px;
+    transition-duration: 0.4s;
+    cursor: pointer; 
+}
+
+.button:hover {
+    background-color: orange;
+    color: white;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+} 
+
+img {
+    float: left;
+}
+
+.giphies{
+    border: solid orange 3px;
+    margin: 2%;
+    float: left;
+}
