@@ -1,1 +1,1 @@
-# Emoji-Gipgy
+# Giphymotions
