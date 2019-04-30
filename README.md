@@ -18,5 +18,13 @@ Link to application: https://esingokgoz.github.io/Giphymotions/
 
 
 ##### Main Screen
-<img width="1158"  src="">
+<img width="1158"  src="https://github.com/esingokgoz/Giphymotions/blob/master/assets/images/startpage.png">
 
+- Select a topic
+<img width="1158"  src="https://github.com/esingokgoz/Giphymotions/blob/master/assets/images/selection.png">
+
+- Entry a new topic and click Add it!
+<img width="1158"  src="https://github.com/esingokgoz/Giphymotions/blob/master/assets/images/newselection.png">
+
+- Select the new topic added
+<img width="1158"  src="https://github.com/esingokgoz/Giphymotions/blob/master/assets/images/newselection.png">
